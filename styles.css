@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+body{
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+form{
+	margin:20px;
+}
+
+input[type="text"],
+input[type="password"]{
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+button{
+	padding:10px 20px;
+	background-color: #4CAF50;
+	color:white;
+	border:none:
+	border-radious: 5px;
+	cursor:pointer;
+}
+
+#existingUser{
+	display:none;
+}
+
+
+
